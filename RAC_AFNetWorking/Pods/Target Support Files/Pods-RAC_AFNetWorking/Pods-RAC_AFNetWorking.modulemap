@@ -1,0 +1,6 @@
+framework module Pods_RAC_AFNetWorking {
+  umbrella header "Pods-RAC_AFNetWorking-umbrella.h"
+
+  export *
+  module * { export * }
+}
